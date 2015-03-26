@@ -7,6 +7,7 @@ use xiah_blog
 -- 创建blog表
 create table blog (
   blog_id  int(12) primary key NOT NULL,
+  blog_file varchar(255) NOT NULL,
   blog_date timestamp NOT NULL,
   blog_title varchar(255) NOT NULL,
   blog_author varchar(20),
