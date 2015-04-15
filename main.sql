@@ -1,8 +1,8 @@
 -- 创建数据库
-drop database if exists xiah_blog;
-create database xiah_blog DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+drop database if exists my_blog;
+create database my_blog DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-use xiah_blog
+use my_blog
 
 -- 创建blog表
 create table blog (
