@@ -1,8 +1,0 @@
-Date: 2015-03-26
-Title: JAVA笔记
-Tags: JAVA
-Author: xiah
-Abstract: this is abstract area
-
-
-其中Date,Title,Author, Abstract不可缺少。文章放在 /post目录下，图片放在/img目录下
