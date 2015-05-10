@@ -2,7 +2,7 @@ Date: 2015-03-26
 Title: ButterKnife NOTES
 Tags: ButterKnife
 Author: xiah
-Abstract: ButterKnife 使用总结
+Abstract: ButterKnife 使用总结,包括view的注入，点击事件的处理
 
 #Butter Knife notes
 
