@@ -2,7 +2,7 @@ Date: 2015-03-28
 Title: linux 安装latex
 Tags: latex, linux
 Author: xiah
-Abstract: latex安装
+Abstract: latex是一种基于TEX的排版系统,主要用于论文的和图书的排版,利用TEX格式排版效率更加高,使用更加灵活.
 
 #linux latex 安装
 
